@@ -1,0 +1,4 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/david/Applications/hmrc-development-environment/hmrc/digital-rooms/conf/logback.xml,/home/david/Applications/hmrc-development-environment/hmrc/digital-rooms/target/scala-2.12/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/david/Applications/hmrc-development-environment/hmrc/digital-rooms/conf/application.conf,/home/david/Applications/hmrc-development-environment/hmrc/digital-rooms/target/scala-2.12/classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/david/Applications/hmrc-development-environment/hmrc/digital-rooms/conf/routes,/home/david/Applications/hmrc-development-environment/hmrc/digital-rooms/target/scala-2.12/classes/routes)[0m
